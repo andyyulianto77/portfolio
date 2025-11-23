@@ -1,0 +1,155 @@
+{
+  "id": "47c02c45-ece1-4d31-880b-a5b582ba75ad",
+  "title": "Portfolio Andy Guru Digital",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "files/64321875_105013354106666_893395094973972480_n.jpg",
+      "name": "Andy Yulianto",
+      "email": null,
+      "socialLink": null
+    },
+    "site": {
+      "name": "portfoliogurudigital",
+      "logo": "files/64321875_105013354106666_893395094973972480_n.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true
+      },
+      "created": 1763917090,
+      "updated": 1763919760,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "custom-portfoliogurudigital-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomPortfoliogurudigitalTheme"
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.5",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-17502aa8-3c9b-4105-b477-437d2a89aa4f",
+      "indent": 0,
+      "location": "pages/item-17502aa8-3c9b-4105-b477-437d2a89aa4f/index.html",
+      "slug": "selamat",
+      "order": 0,
+      "parent": null,
+      "title": "Selamat Datang Di Web Portofolio Saya",
+      "description": "Selamat Datang",
+      "metadata": {
+        "created": 1763917492,
+        "updated": 1763918328,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "theme": {
+          "element": "journey-theme",
+          "path": "@haxtheweb/journey-theme/journey-theme.js",
+          "name": "Journey theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "journey-theme"
+        },
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\foto-Andy.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/foto-Andy.jpg",
+            "url": "files/foto-Andy.jpg",
+            "type": "image/jpeg",
+            "name": "foto-Andy.jpg",
+            "size": 59949
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\64321875_105013354106666_893395094973972480_n.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/64321875_105013354106666_893395094973972480_n.jpg",
+            "url": "files/64321875_105013354106666_893395094973972480_n.jpg",
+            "type": "image/jpeg",
+            "name": "64321875_105013354106666_893395094973972480_n.jpg",
+            "size": 360523
+          }
+        ],
+        "image": "files/64321875_105013354106666_893395094973972480_n.jpg"
+      }
+    },
+    {
+      "id": "item-5458639d-993e-4436-b78d-6bb2f60c8ba0",
+      "indent": 0,
+      "location": "pages/item-5458639d-993e-4436-b78d-6bb2f60c8ba0/index.html",
+      "slug": "karya-tulis",
+      "order": 2,
+      "parent": null,
+      "title": "📖 Dedikasi Dan Karya Nyata: Inovasi dalam Tulisan",
+      "description": "halaman 2\n\n",
+      "metadata": {
+        "created": 1763917506,
+        "updated": 1763919760,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "journey-theme",
+          "path": "@haxtheweb/journey-theme/journey-theme.js",
+          "name": "Journey theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "journey-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-f19c7868-d5ce-4b53-9e26-bc8dd95b6872",
+      "indent": 0,
+      "location": "pages/item-f19c7868-d5ce-4b53-9e26-bc8dd95b6872/index.html",
+      "slug": "page-1",
+      "order": 1,
+      "parent": null,
+      "title": "📈 Dedikasi 3 Tahun: Dari Potensi ke Protokol",
+      "description": "Dalam tiga tahun terakhir, perjalanan pengembangan diri saya adalah telaah nyata dari sinergi inovasi pedagogis dan penguatan profesionalitas. Saya telah secara strategis mengintegrasikan praktik ter",
+      "metadata": {
+        "created": 1763917520,
+        "updated": 1763919220,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\dicoding.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/dicoding.jpg",
+            "url": "files/dicoding.jpg",
+            "type": "image/jpeg",
+            "name": "dicoding.jpg",
+            "size": 26427
+          }
+        ],
+        "theme": {
+          "element": "journey-theme",
+          "path": "@haxtheweb/journey-theme/journey-theme.js",
+          "name": "Journey theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "journey-theme"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import{css as u,html as r}from"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";import{PolarisFlexTheme as m}from"@haxtheweb/polaris-theme/lib/polaris-flex-theme.js";import"@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";var o=Object.freeze,d=Object.defineProperty,e=(t,p)=>o(d(t,"raw",{value:o(t.slice())}));/**
+* Copyright 2025 Andy Yulianto
+* @license Apache-2.0, see License.md for full text.
+*/var n,s,a,l,i;class c extends m{static get styles(){return[super.styles,u(n||(n=e(["\n        :host {\n          display: block;\n        }\n      "])))]}renderHeaderSlot(){return r(s||(s=e([""])))}renderFooterContactInformation(){return r(a||(a=e([""])))}renderFooterSecondarySlot(){return r(l||(l=e([""])))}renderFooterPrimarySlot(){return r(i||(i=e([""])))}static get tag(){return"custom-portfoliogurudigital-theme"}constructor(){super()}}customElements.define(c.tag,c);
