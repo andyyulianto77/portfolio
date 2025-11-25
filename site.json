@@ -20,7 +20,7 @@
         "canonical": true
       },
       "created": 1763917090,
-      "updated": 1764063839,
+      "updated": 1764063874,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -52,7 +52,7 @@
       "description": "Halo teman-teman! Saya Andy Yulianto, tapi di sekolah ini, kalian cukup panggil\n  saya Pak Andy. Saya bangga berasal dari Desa Ngadiluwih, Kab. Kediri Etos kerja gigih,\n  pantang menyerah, dan cekata",
       "metadata": {
         "created": 1763917492,
-        "updated": 1764063839,
+        "updated": 1764063874,
         "images": {},
         "videos": {},
         "published": true,
@@ -90,16 +90,16 @@
     },
     {
       "id": "item-5458639d-993e-4436-b78d-6bb2f60c8ba0",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-5458639d-993e-4436-b78d-6bb2f60c8ba0/index.html",
       "slug": "karya-tulis",
-      "order": 0,
-      "parent": "item-f19c7868-d5ce-4b53-9e26-bc8dd95b6872",
+      "order": 2,
+      "parent": null,
       "title": "📖 Dedikasi Dan Karya Nyata: Inovasi dalam Tulisan",
       "description": "Perjalanan saya sebagai pendidik diwarnai oleh dedikasi tanpa henti untuk berinovasi\n  . Saya percaya, pengetahuan yang tidak dibagikan adalah bug dalam sistem pendidikan.\nMelalui penulisan buku tekn",
       "metadata": {
         "created": 1763917506,
-        "updated": 1764063839,
+        "updated": 1764063874,
         "images": {},
         "videos": {},
         "theme": {
@@ -127,7 +127,7 @@
       "description": "Dalam tiga tahun terakhir, perjalanan pengembangan diri saya adalah telaah nyata dari sinergi inovasi pedagogis dan penguatan profesionalitas. Saya telah secara strategis mengintegrasikan praktik ter",
       "metadata": {
         "created": 1763917520,
-        "updated": 1764063839,
+        "updated": 1764063874,
         "images": {},
         "videos": {},
         "published": true,
