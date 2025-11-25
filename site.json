@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763917090,
-      "updated": 1764065051,
+      "updated": 1764065129,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -66,11 +66,11 @@
       "slug": "selamat",
       "order": 0,
       "parent": null,
-      "title": "Selamat Datang Di Web Saya",
+      "title": "👋 Selamat Datang di Jendela Portofolio Digital Saya",
       "description": "Halo teman-teman! Saya Andy Yulianto, tapi di sekolah ini, kalian cukup panggil\n  saya Pak Andy. Saya bangga berasal dari Desa Ngadiluwih, Kab. Kediri Etos kerja gigih,\n  pantang menyerah, dan cekata",
       "metadata": {
         "created": 1763917492,
-        "updated": 1764063874,
+        "updated": 1764065129,
         "images": {},
         "videos": {},
         "published": true,
