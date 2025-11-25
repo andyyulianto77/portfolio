@@ -20,7 +20,7 @@
         "canonical": true
       },
       "created": 1763917090,
-      "updated": 1764064026,
+      "updated": 1764064090,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -95,11 +95,11 @@
       "slug": "karya-tulis",
       "order": 2,
       "parent": null,
-      "title": "📖 Dedikasi Dan Karya Nyata: Inovasi dalam Tulisan",
+      "title": "📖 Karya Nyata: Inovasi dalam Tulisan",
       "description": "Perjalanan saya sebagai pendidik diwarnai oleh dedikasi tanpa henti untuk berinovasi\n  . Saya percaya, pengetahuan yang tidak dibagikan adalah bug dalam sistem pendidikan.\nMelalui penulisan buku tekn",
       "metadata": {
         "created": 1763917506,
-        "updated": 1764063874,
+        "updated": 1764064090,
         "images": {},
         "videos": {},
         "theme": {
