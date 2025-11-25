@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763917090,
-      "updated": 1764064423,
+      "updated": 1764064890,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -177,13 +177,13 @@
       "indent": 0,
       "location": "pages/item-3a276f76-92d7-4a3e-83a2-8c6d6a526543/index.html",
       "slug": "page",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "🎖️ Fondasi Juang: Kekuatan Organisasi Guru",
       "description": "\n",
       "metadata": {
         "created": 1764064107,
-        "updated": 1764064403,
+        "updated": 1764064890,
         "images": {},
         "videos": {},
         "theme": {
