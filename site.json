@@ -153,6 +153,22 @@
         },
         "status": ""
       }
+    },
+    {
+      "id": "item-3a276f76-92d7-4a3e-83a2-8c6d6a526543",
+      "indent": 0,
+      "location": "pages/item-3a276f76-92d7-4a3e-83a2-8c6d6a526543/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1764064107,
+        "updated": 1764064107,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
