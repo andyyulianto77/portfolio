@@ -20,7 +20,7 @@
         "canonical": true
       },
       "created": 1763917090,
-      "updated": 1764064090,
+      "updated": 1764064403,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -159,15 +159,26 @@
       "indent": 0,
       "location": "pages/item-3a276f76-92d7-4a3e-83a2-8c6d6a526543/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "🎖️ Fondasi Juang: Kekuatan Organisasi Guru",
+      "description": "\n",
       "metadata": {
         "created": 1764064107,
-        "updated": 1764064107,
-        "images": [],
-        "videos": []
+        "updated": 1764064403,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "journey-theme",
+          "path": "@haxtheweb/journey-theme/journey-theme.js",
+          "name": "Journey theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "journey-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
