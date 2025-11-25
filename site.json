@@ -17,19 +17,37 @@
       "settings": {
         "lang": "en-US",
         "publishPagesOn": true,
-        "canonical": true
+        "canonical": true,
+        "private": false,
+        "pathauto": true,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
       },
       "created": 1763917090,
-      "updated": 1764064403,
+      "updated": 1764064423,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
-      }
+      },
+      "version": "11.0.5",
+      "domain": null,
+      "tags": null,
+      "static": {}
     },
     "theme": {
       "element": "custom-portfoliogurudigital-theme",
       "path": "./custom/build/custom.es6.js",
-      "name": "CustomPortfoliogurudigitalTheme"
+      "name": "CustomPortfoliogurudigitalTheme",
+      "variables": {
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null,
+        "hexCode": null,
+        "cssVariable": "--simple-colors-default-theme-null-7",
+        "icon": null
+      },
+      "regions": {}
     },
     "node": {
       "fields": {}
