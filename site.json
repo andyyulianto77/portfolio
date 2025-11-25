@@ -196,7 +196,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\foto-pgri.png",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/foto-pgri.png",
+            "url": "files/foto-pgri.png",
+            "type": "image/png",
+            "name": "foto-pgri.png",
+            "size": 1317091
+          }
+        ]
       }
     }
   ]
