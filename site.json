@@ -20,7 +20,7 @@
         "canonical": true
       },
       "created": 1763917090,
-      "updated": 1764063809,
+      "updated": 1764063839,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -52,7 +52,7 @@
       "description": "Halo teman-teman! Saya Andy Yulianto, tapi di sekolah ini, kalian cukup panggil\n  saya Pak Andy. Saya bangga berasal dari Desa Ngadiluwih, Kab. Kediri Etos kerja gigih,\n  pantang menyerah, dan cekata",
       "metadata": {
         "created": 1763917492,
-        "updated": 1764063809,
+        "updated": 1764063839,
         "images": {},
         "videos": {},
         "published": true,
@@ -84,21 +84,22 @@
             "size": 360523
           }
         ],
-        "image": "files/64321875_105013354106666_893395094973972480_n.jpg"
+        "image": "files/64321875_105013354106666_893395094973972480_n.jpg",
+        "status": ""
       }
     },
     {
       "id": "item-5458639d-993e-4436-b78d-6bb2f60c8ba0",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-5458639d-993e-4436-b78d-6bb2f60c8ba0/index.html",
       "slug": "karya-tulis",
-      "order": 2,
-      "parent": null,
+      "order": 0,
+      "parent": "item-f19c7868-d5ce-4b53-9e26-bc8dd95b6872",
       "title": "📖 Dedikasi Dan Karya Nyata: Inovasi dalam Tulisan",
       "description": "Perjalanan saya sebagai pendidik diwarnai oleh dedikasi tanpa henti untuk berinovasi\n  . Saya percaya, pengetahuan yang tidak dibagikan adalah bug dalam sistem pendidikan.\nMelalui penulisan buku tekn",
       "metadata": {
         "created": 1763917506,
-        "updated": 1764063780,
+        "updated": 1764063839,
         "images": {},
         "videos": {},
         "theme": {
@@ -111,7 +112,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -125,7 +127,7 @@
       "description": "Dalam tiga tahun terakhir, perjalanan pengembangan diri saya adalah telaah nyata dari sinergi inovasi pedagogis dan penguatan profesionalitas. Saya telah secara strategis mengintegrasikan praktik ter",
       "metadata": {
         "created": 1763917520,
-        "updated": 1763919220,
+        "updated": 1764063839,
         "images": {},
         "videos": {},
         "published": true,
@@ -148,7 +150,8 @@
           "name": "Journey theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
           "key": "journey-theme"
-        }
+        },
+        "status": ""
       }
     }
   ]
