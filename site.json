@@ -160,6 +160,14 @@
             "type": "image/jpeg",
             "name": "dicoding.jpg",
             "size": 26427
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\machine-learning.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/machine-learning.jpg",
+            "url": "files/machine-learning.jpg",
+            "type": "image/jpeg",
+            "name": "machine-learning.jpg",
+            "size": 41592
           }
         ],
         "theme": {
