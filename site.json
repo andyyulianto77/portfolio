@@ -168,6 +168,14 @@
             "type": "image/jpeg",
             "name": "machine-learning.jpg",
             "size": 41592
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital\\files\\cloud.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyyulianto77\\portfoliogurudigital/files/cloud.jpg",
+            "url": "files/cloud.jpg",
+            "type": "image/jpeg",
+            "name": "cloud.jpg",
+            "size": 40457
           }
         ],
         "theme": {
